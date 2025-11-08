@@ -1,6 +1,6 @@
 🧠 Linux Maintenance Suite (Capstone Project 5)  
 **Developer:** Ashutosh Satpathy  
-**GitHub:** [DevAshuTosh10](https://github.com/DevAshuTosh10)  
+
 **Course:** Linux OS & LSP  
 **Project Type:** Bash Scripting Automation  
 
