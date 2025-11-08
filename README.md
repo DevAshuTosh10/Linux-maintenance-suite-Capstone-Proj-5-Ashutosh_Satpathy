@@ -110,15 +110,3 @@ The structured design makes it easily extensible for advanced features like emai
 © 2025 Ashutosh Satpathy
 Linux OS & LSP — Capstone Project 5
 
-yaml
-Copy code
-
----
-
- 💡 Why this version works best:
-- Uses **code blocks** (```bash```) for directory tree structure (renders beautifully on GitHub).  
-- Keeps indentation consistent and visually aligned.  
-- Removes extra clutter (like “yaml” and “Copy code”).  
-- Ready to **paste directly into your `README.md` file** — it will look clean and professional on your GitHub repo.  
-
----
