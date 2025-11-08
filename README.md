@@ -37,7 +37,6 @@ System Administration Tools
 
 🧩 Project Structure
 linux-maintenance-suite/
-│
 ├── backup.sh # Automates system backup with timestamp
 ├── update.sh # Updates and cleans the system
 ├── logmonitor.sh # Monitors system logs for warnings/errors
