@@ -92,6 +92,7 @@ Enter your choice [1-5]: 1
 [2025-11-07 13:23:29] Running backup script...
 [2025-11-07 13:23:29] [SUCCESS] Backup created successfully at: /backup/daily/backup_2025-11-07_13-23-29.tar.gz
 [2025-11-07 13:23:29] Backup completed successfully.
+
 🧠 Developer Notes
 This capstone project demonstrates:
 
